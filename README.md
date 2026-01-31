@@ -1,8 +1,6 @@
 <h1 align="center">Hello! 👋, I'm Max Van den Eynde</h1>
 <h3 align="center">A passionate developer from Catalonia</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxvdec" alt="maxvdec" /></a> </p>
-
 - 🔭 I’m currently working on [Atlas](atlasengine.org)
 
 - 🌱 I’m currently learning **Vulkan, Assembly**
