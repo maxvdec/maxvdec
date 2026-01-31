@@ -1,15 +1,13 @@
 <h1 align="center">Hello! 👋, I'm Max Van den Eynde</h1>
 <h3 align="center">A passionate developer from Catalonia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxvdec&label=Profile%20views&color=0e75b6&style=flat" alt="maxvdec" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxvdec" alt="maxvdec" /></a> </p>
 
 - 🔭 I’m currently working on [Atlas](atlasengine.org)
 
 - 🌱 I’m currently learning **Vulkan, Assembly**
 
-- 🇯🇵 僕は **日本語を学んでいます**
+- 🇯🇵 僕は**日本語を勉強しています**
 
 - 👨‍💻 All of my projects are available at [maxvdec.github.io](maxvdec.github.io)
 
