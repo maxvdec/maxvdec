@@ -1,9 +1,9 @@
 <h1 align="center">Hello! 👋, I'm Max Van den Eynde</h1>
 <h3 align="center">A passionate developer from Catalonia</h3>
 
-- 🔭 I’m currently working on [Atlas](atlasengine.org)
+- 🔭 I’m currently working on [Atlas](atlasengine.org) and [Neutral](github.com/theneutralmail)
 
-- 🌱 I’m currently learning **Vulkan, Assembly**
+- 🌱 I’m currently learning **how to write good Vulkan code**
 
 - 🇯🇵 僕は**日本語を勉強しています**
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://maxvdec.github.io/writings](https://maxvdec.github.io/writings)
 
-- 💬 Ask me about **C++, Systems or Graphics Programming**
+- 💬 Ask me about: **C++, Systems, Graphics Programming, Swift and UI development (although you might prefer not)**
 
-- 📫 How to reach me **maxvdec@gmail.com**
+- 📫 How to reach me: **maxvdec@gmail.com**
 
-- ⚡ Fun fact **Neovim and Jujutsu VCS fan**
+- ⚡ Fun fact **Neovim, Jujutsu VCS fan and working from a Mac**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
