@@ -1,4 +1,4 @@
-# 💫 Hello! I am Max Van den Eynge
+# 💫 Hello! I am Max Van den Eynde
 🔭 I’m currently working on Atlas, my own Game Engine<br>🤝 I'm able to help with graphics programming and systems programming<br>🌱 僕は日本語を勉強しています<br>💬 Ask me about graphics and applications<br>⚡ Fun fact: I love Jujutsu VCS and macOS<br>Catalan developer
 
 
